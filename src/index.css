@@ -1,0 +1,36 @@
+
+
+h1{
+  text-align: center;
+  display:grid;
+  color:rgb(197, 180, 29)
+
+}
+
+h2{
+  text-align: center;
+  color: rgb(9, 155, 148)
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.ui.cards {
+  display: flex;
+  margin: 3.1em 1.5em;
+  flex-wrap: wrap;
+
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  
+}
